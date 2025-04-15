@@ -1,0 +1,20 @@
+/* The body of the page */
+body {
+    font-family: Arial, sans-serif;  /* Sets the font for the entire page */
+    background-color: #f0f0f0;  /* Sets a light gray background color */
+    text-align: center;  /* Centers all text and elements on the page */
+    padding: 50px;  /* Adds padding around the page content */
+  }
+  
+  /* Style for the buttons */
+  button {
+    padding: 10px 20px;  /* Adds padding to the buttons (top/bottom: 10px, left/right: 20px) */
+    margin: 10px;  /* Adds margin around the buttons (space between buttons and other elements) */
+    cursor: pointer;  /* Changes the cursor to a pointer (hand icon) when hovering over the button */
+  }
+  
+  /* Button hover effect */
+  button:hover {
+    background-color: #ddd;  /* Changes background color to light gray when the button is hovered over */
+  }
+  
